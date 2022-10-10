@@ -6,5 +6,5 @@ A collection of projects affiliated towards a target audience
 
 Download the latest `Release`.
 
->[zip](https://github.com/PersonHood/Afiliations/archive/refs/tags/v2.2.zip)
+>[zip](https://github.com/PersonHood/Afiliations/archive/refs/tags/v1.4.zip)
 
